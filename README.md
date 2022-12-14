@@ -1,3 +1,1 @@
-"# checkbook" 
-"# checkbook" 
-"# checkbook" 
+ "A simple check book that adds and subtracts from total amount"
